@@ -5,7 +5,7 @@ Massachusetts General Hospital — Synthetic Patient Dataset (2011–2022)
 
 **Table of Contents**
 - Project Overview
-- Dataset Overview
+- [Dataset Overview](https://github.com/OluwaseunOkundalaye/Hospital-Records-Analysis-with-SQL#dataset-overview)
 - Database Structure & Relationships
 - Data Quality Assessment
 - Data Cleaning & Error Correction
