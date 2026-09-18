@@ -184,3 +184,25 @@ Alter Table Procedures
 Add Constraint FK_Patient_Procedures
 Foreign Key (Patient) References Patients (id)
 ```
+
+![](https://github.com/OluwaseunOkundalaye/Hospital-Records-Analysis-with-SQL/blob/main/Dashboard.png)
+
+```Total Profit = SUMX('sales','sales'[Units] * RELATED('Product'[Profit]))```Y
+
+```PYTHON
+bins = [0, 2, 5, 10, 100]
+
+labels = [
+    'New Customer',
+    'Established Customer',
+    'Long-Term Customer',
+    'Very Long-Term Customer'
+]
+
+df['tenure_group'] = pd.cut(
+    df['customer_tenure_years'],
+    bins=bins,
+    labels=labels,
+    include_lowest=True
+)
+```
