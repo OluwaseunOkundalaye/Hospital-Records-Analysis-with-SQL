@@ -206,3 +206,4 @@ df['tenure_group'] = pd.cut(
     include_lowest=True
 )
 ```
+[Click here to return to the first page](https://github.com/OluwaseunOkundalaye/Hospital-Records-Analysis-with-SQL#table-of-contents)
