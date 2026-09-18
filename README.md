@@ -3,7 +3,7 @@ Patient Demographics, Medical Encounters, Insurance Costs & Procedures Analysis
 
 Massachusetts General Hospital — Synthetic Patient Dataset (2011–2022)
 
-**Table of Contents**
+## Table of Contents
 - [Project Overview](https://github.com/OluwaseunOkundalaye/Hospital-Records-Analysis-with-SQL#project-overview)
 - [Dataset Overview](https://github.com/OluwaseunOkundalaye/Hospital-Records-Analysis-with-SQL#dataset-overview)
 - Database Structure & Relationships
